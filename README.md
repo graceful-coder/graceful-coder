@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @graceful-coder
-- 👀 I’m interested in matcha.
+- 👀 I’m interested in tea & coding.
 - 🌱 I’m currently learning python for fintech apps.
 - 💞️ I’m looking to collaborate on fintech and crypto.
 - 📫 How to reach me graceful-coder @ pm.me
