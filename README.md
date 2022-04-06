@@ -2,7 +2,7 @@
 - 👀 I’m interested in matcha tea & coding.
 - 🌱 I’m currently learning python for fintech apps.
 - 💞️ I’m looking to collaborate on fintech and crypto.
-- 📫 How to reach me graceful-coder @ pm.me
+- 📫 How to reach me graceful.coder @ pm.me
 
 <!---
 graceful-coder/graceful-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
