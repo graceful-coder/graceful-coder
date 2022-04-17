@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @graceful-coder
-- 👀 I’m interested in matcha tea & coding.
+- 👋 Hi, I’m Veronica.
+- 👀 I’m interested in matcha tea 🍵 & coding.
 - 🌱 I’m currently learning python.
+- ✅ Check out some of my python exercises published @ https://exercism.org/profiles/graceful-coder
 - 💞️ I’m looking to collaborate on fintech.
 - 📫 How to reach me graceful.coder @ pm.me
 
