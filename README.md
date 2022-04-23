@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Veronica.
 - 👀 I’m interested in matcha tea 🍵 & coding.
 - 🌱 I’m currently learning python.
-- ✅ Check out some of my python exercises published @ https://exercism.org/profiles/graceful-coder
+- ✅ Check out some of my python exercises published @ https://exercism.org/profiles/graceful-coder @ https://www.hackerrank.com/graceful_coder
 - 💞️ I’m looking to collaborate on fintech.
 - 📫 How to reach me graceful.coder @ pm.me
 
