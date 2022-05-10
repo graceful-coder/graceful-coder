@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Veronica.
 - 👀 I’m interested in matcha tea 🍵 & coding.
-- 🌱 I’m currently learning python.
-- ✅ Check out some of my python exercises published @ https://exercism.org/profiles/graceful-coder @ https://www.hackerrank.com/graceful_coder
+- 🌱 I’m currently learning Python and Solidity.
+- ✅ Check out some of my python exercises published @ https://leetcode.com/graceful-coder/ https://www.hackerrank.com/graceful_coder
 - 💞️ I’m looking to collaborate on fintech.
-- 📫 How to reach me graceful.coder @ pm.me
+- 📫 How to reach me graceful.coder @ proton.me
 
 <!---
 graceful-coder/graceful-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
