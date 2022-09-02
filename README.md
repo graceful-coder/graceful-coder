@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Veronica.
 - 👀 I’m interested in matcha tea 🍵 & coding.
-- 🌱 I’m currently learning Python and Solidity.
-- ✅ Check out some of my python and MySQL exercises published @ https://leetcode.com/graceful-coder/ https://www.hackerrank.com/graceful_coder
+- 🌱 I’m currently learning Rust for Solana.
 - 💞️ I’m looking to collaborate on fintech.
 - 📫 How to reach me: graceful.coder @ proton.me
 
