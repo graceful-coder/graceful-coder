@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Veronica.
 - 👀 I’m interested in matcha tea 🍵 & coding.
 - 🌱 I’m currently learning Rust for Solana.
-- 💞️ I’m looking to collaborate on fintech.
+- 💞️ What I'm building: an NFT gated webapp for Freqs. Freqs swaps your USDT into FREQS token to invest in a crypto algo trading bot.
 - 📫 How to reach me: graceful.coder @ proton.me
 
 <!---
