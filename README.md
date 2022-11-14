@@ -1,6 +1,6 @@
 - 👋 🙋‍♀️ Hi, I’m Veronica.
 - I’m interested in matcha tea 🍵 🍃 & coding.
-- 🌱🤑 Let's talk DeFi, quant stuff, and theories about the Universe 🪐
+- 🌱🤑 Let's talk DeFi, quant stuff, and theories of the Universe 🪐
 - 📫 Ping me: graceful.coder @ proton.me
 
 <!---
