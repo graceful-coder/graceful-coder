@@ -1,7 +1,7 @@
-- 👋 🙋‍♀️ Hi, I’m Veronica.
-- I’m interested in matcha tea 🍵 🍃 & coding.
-- 🌱🤑 Let's talk DeFi, quant stuff, and theories about the Universe 🪐
-- 📫 Ping me: graceful.coder @ proton.me
+👋 🙋‍♀️ Hi, I’m Veronica.
+I’m interested in matcha tea 🍵 🍃 & coding.
+🌱🤑 Let's talk DeFi, quant stuff, and theories about the Universe 🪐
+📫 Ping me: graceful.coder @ proton.me
 
 <!---
 graceful-coder/graceful-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
